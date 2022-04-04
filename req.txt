@@ -1,0 +1,4 @@
+cryptocmd
+pandas
+numpy
+matplotlib
